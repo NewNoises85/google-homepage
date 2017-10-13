@@ -1,0 +1,91 @@
+.logo {
+  position: fixed;
+top: 34%;
+left: 39%;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.about, .store, .gmail, .images, .signin {
+  float: left;
+  padding-top: 10px;
+  padding-left: 135px;
+}
+
+.search {
+  position: fixed;
+  top: 50%;
+  left: 27%;
+}
+
+.butt1 {
+   border: 1px outset darkGrey;
+   background-color: lightGrey;
+   height: 36px;
+   width: 80px;
+   cursor:pointer;
+   float: left;
+   padding-top: 10px;
+   padding-left: 10px;
+   font-size: 10pt;
+   text-align: center;
+}
+
+.butt2 {
+   border: 1px outset darkGrey;
+   background-color: lightGrey;
+   height: 36px;
+   width: 80px;
+   cursor:pointer;
+   float: left;
+   padding-top: 10px;
+   padding-left: 10px;
+   font-size: 10pt;
+   text-align: center;
+}
+
+.butt1:hover {
+   background-color: darkGrey;
+   color:white;
+ }
+
+.butt2:hover {
+   background-color: darkGrey;
+   color:white;
+}
+
+.butt1 {
+  position: fixed;
+  top: 57%;
+  left: 42%;
+}
+
+.butt2 {
+  position: fixed;
+  top: 57%;
+  left: 52%;
+}
+
+.text1 {
+  position: fixed;
+  top: 65%;
+  left: 35%;
+}
+
+.footnavbar {
+    position: fixed;
+    top: 95%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.advertising, .business, .privacy, .terms {
+  float: left;
+  padding-bottom: 10px;
+  padding-left: 40px;
+}
