@@ -87,5 +87,8 @@ left: 39%;
 .advertising, .business, .privacy, .terms {
   float: left;
   padding-bottom: 10px;
-  padding-left: 40px;
+  padding-left: 150px;
+background-size: auto;
+  background-color: lightgrey;
+
 }
